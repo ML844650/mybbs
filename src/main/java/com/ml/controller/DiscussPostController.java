@@ -40,6 +40,11 @@ public class DiscussPostController {
         return "index";
     }
 
+    /**
+     * 批量插入一些垃圾数据
+     * @return
+     */
+
     @GetMapping("/insert")
     public String addDatas() {
         for (int i = 1; i <= 50; i++) {
