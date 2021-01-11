@@ -41,7 +41,7 @@ public class DiscussPostController {
     }
 
     /**
-     * 批量插入一些垃圾数据
+     * 批量插入一些垃圾数据哈哈哈
      * @return
      */
 
