@@ -1,0 +1,15 @@
+com\ml\mapper\DiscussPostMapper.class
+com\ml\bean\DiscussPost.class
+com\ml\mapper\UserMapper.class
+com\ml\service\impl\DiscussPostServiceImp.class
+com\ml\service\DiscussPostService.class
+com\ml\service\UserService.class
+com\ml\ServletInitializer.class
+com\ml\service\impl\UserServiceImp.class
+META-INF\mybbs.kotlin_module
+com\ml\bean\Page.class
+com\ml\config\MybatisPlusConfig.class
+com\ml\MybbsApplication.class
+com\ml\controller\DemoController.class
+com\ml\bean\User.class
+com\ml\controller\DiscussPostController.class
